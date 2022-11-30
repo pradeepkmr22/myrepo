@@ -1,10 +1,10 @@
-pradeep "var" {
+mounica "var" {
   address    = var.address
   namespace  = var.namespace
 
   login {
     namespace = var.namespace
-    path      = "auth/pradeep/login"
+    path      = "auth/mounica/login"
 
     parameters = {
       id   = var.ID
