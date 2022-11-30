@@ -21,3 +21,8 @@ description = "version  name per https://prdaevgvhjvbb"
 string # no default for required variable
 default     = "v14
 " }
+variable "something" {
+description = "version  name per https://prdaevgvhjvbb"
+string # no default for required variable
+default     = "v14"
+ }
