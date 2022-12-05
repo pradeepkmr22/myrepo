@@ -1,1 +1,0 @@
-b'mounica "var" {\n  address    = var.address\n  namespace  = var.namespace\n\n  login {\n    namespace = var.namespace\n    path      = "auth/mounica/login"\n\n    parameters = {\n      id   = var.ID\n      s_id = var.s_id\n    }\n  }\n  \n  \n  \n}\n'
