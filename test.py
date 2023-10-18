@@ -1,1 +1,2 @@
-test file
+import os
+i=1
